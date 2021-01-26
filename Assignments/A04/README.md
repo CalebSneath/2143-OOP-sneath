@@ -8,7 +8,7 @@ This is just a folder to show and store my banner.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | banner.txt         Contains a banner with header information.      |
+|   1   | banner.txt      |   Contains a banner with header information.      |
 
 ### Instructions
 

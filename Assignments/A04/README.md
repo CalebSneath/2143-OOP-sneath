@@ -15,11 +15,7 @@ This is just a folder to show and store my banner.
 - Open the header.
 - If you need the banner in another folder, either copy/paste it, or duplicate the file.
 
-+------------+
-| name1 age1 |
-| name2 age2 |
-| etc...     |
-+------------+
+
 
 - Example Command:
     - `right click, select all

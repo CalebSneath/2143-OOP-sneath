@@ -1,3 +1,17 @@
+///////////////////////////////////////////////////////////////////////////////
+// 
+// Author:           SFML (Code), HerbGlitch (Installation Instructions),
+//                   Caleb Sneath (Banner)
+// Email:            ansengor@yahoo.com, terry.griffin@msutexas.edu
+// Label:            A06
+// Title:            SFML Intro
+// Course:           CMPS 2143
+// Semester:         Spring 2021
+//
+// Description:
+//       This program prints a green ball
+///////////////////////////////////////////////////////////////////////////////
+
 #include <SFML/Graphics.hpp>
 
 int main()

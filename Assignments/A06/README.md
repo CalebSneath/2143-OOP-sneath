@@ -2,11 +2,7 @@
 ### Caleb Sneath
 ### Description:
 
-Bacon ipsum dolor amet pork loin kielbasa pork, drumstick leberkas shankle strip steak fatback beef ribs ham hock.
-Pork short ribs doner andouille cupim pastrami picanha landjaeger pig. Salami swine capicola spare ribs boudin
-leberkas. Capicola ground round pork meatloaf, ham jowl swine prosciutto bacon alcatra pancetta burgdoggen pig
-spare ribs leberkas. Shankle fatback ground round, porchetta frankfurter cupim venison strip steak pig meatball
-biltong filet mignon. Shoulder chislic ground round pork burgdoggen hamburger.
+This folder displays the introductory use of SFML programming.
 
 ### Files
 

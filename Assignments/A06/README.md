@@ -8,9 +8,9 @@ This folder displays the introductory use of SFML programming.
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [main.cpp]()         | Main program that launches the ball      |
-|   2   | [ball.png]()  | A screenshot that shows the ball         |
-|   3   | [banner.txt]() | My banner |
+|   1   | [main.cpp](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A06/main.cpp)         | Main program that launches the ball      |
+|   2   | [ball.png](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A06/ball.png)  | A screenshot that shows the ball         |
+|   3   | [banner.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A06/banner.txt) | My banner |
 
 ### Instructions
 

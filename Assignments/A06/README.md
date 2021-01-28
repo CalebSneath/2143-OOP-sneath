@@ -23,3 +23,4 @@ This folder displays the introductory use of SFML programming.
 - main.exe
 
 
+<img src="ball.png" width="800">

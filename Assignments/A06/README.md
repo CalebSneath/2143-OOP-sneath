@@ -21,3 +21,6 @@ This folder displays the introductory use of SFML programming.
 - g++ -c main.cpp
 - g++ main.o -o main -lsfml-graphics -lsfml-window -lsfml-system
 - main.exe
+
+
+(ball.png)

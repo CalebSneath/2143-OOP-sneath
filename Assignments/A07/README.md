@@ -14,22 +14,24 @@
 
 ### PlayerItem
 
-<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/PlayerItem.xml" width="200">
+<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/PlayerItem.png" width="200">
 
 ### Debris
 
-<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/PlayerItem.xml" width="200">
+<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/Debris.png" width="200">
 
 ### Motion
 
-<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/PlayerItem.xml"200">
+<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/Motion.png" width="200">
 
 ### Figure
 
-<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/PlayerItem.xml" width="200">
+<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/Figure.png" width="200">
 
-### Score
+### GameCycle
+
+<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/GameCycle.png" width="200">
 
 ### Diagram
 
-<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/PlayerItem.xml" width="400">
+<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/Diagram.png" width="400">

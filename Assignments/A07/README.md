@@ -1,4 +1,4 @@
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
 // 
 // Author:           Caleb Sneath
 // Email:            ansengor@yahoo.com
@@ -10,7 +10,7 @@
 // Description:
 //       This program describes how I plan to implement the game for my project.
 //       
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////
 
 ### PlayerItem
 
@@ -34,4 +34,4 @@
 
 ### Diagram
 
-<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/Diagram.png" width="400">
+<img src="https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A07/Diagram.png" width="800">

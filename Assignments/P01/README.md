@@ -14,7 +14,7 @@ This folder displays the introductory use of SFML programming and classes with a
 |   4   | [main.exe](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.exe)     | Game executable |
 |   5   | [main.o](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.o)     | File you should get while following compile instructions |
 |   6   | [arial.ttf](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/arial.ttf)     | Game font file, obtained from zyedidia |
-|   7   | Everything else | Miscelaneous SFML libraries |
+|   7   | Everything else | Miscellaneous SFML libraries |
 
 
 ### Instructions

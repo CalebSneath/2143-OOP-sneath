@@ -10,14 +10,9 @@ Modifications to the original program include finishing unfinished original RgbC
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [main.cpp](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.cpp)         | Main program that compiles game      |
-|   2   | [Asteroid Dodger Screenshot.png](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/Asteroid%20Dodger%20Screenshot.png)  | A screenshot that shows gameplay         |
-|   3   | [Banner.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/Banner.txt) | My banner |
-|   4   | [main.exe](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.exe)     | Game executable |
-|   5   | [main.o](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.o)     | File you should get while following compile instructions |
-|   6   | [arial.ttf](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/arial.ttf)     | Game font file, obtained from zyedidia |
-|   7   | Everything else | Miscellaneous SFML libraries |
-NOTE: Chart is incomplete, the project one chart is temporarily placed above as a placeholder.
+|   1   | [Source.cpp](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A08/Source.cpp)         | Main program source code    |
+|   2   | [A08 Screenshot.png](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A08/A08%20Screenshot.png)  | A screenshot that shows the program running   |
+|   3   | [Banner.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/A08/Banner.txt) | My banner |
 
 
 ### Instructions
@@ -29,5 +24,5 @@ NOTE: Chart is incomplete, the project one chart is temporarily placed above as 
 
 
 
-<img src="Asteroid Dodger Screenshot.png" width="800">
+<img src="A08 Screenshot.png" width="800">
 

@@ -1,0 +1,10 @@
+test.txt		//Input file name
+output.txt		//Output file name
+#				//Graph ID, # sets it to print no id
+no				//Verify valid shape. Takes longer to process. "yes"/"no"
+null			//This line and below are the filenames of any subgraphs.
+null			//If no subgraph is used, "null" is the placeholder value.
+null			//Example, "subgraph1Config.txt"
+null			//Only six placeholders are in the default config file,
+null			//but more can be added below. Linking to a non-subgraph
+null			//type graph or this file can break the program.

@@ -8,13 +8,13 @@ This folder displays the use of classes to create a program that can convert an 
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [main.cpp](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.cpp)         | Main program that compiles game      |
-|   2   | [Asteroid Dodger Screenshot.png](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/Asteroid%20Dodger%20Screenshot.png)  | A screenshot that shows gameplay         |
-|   3   | [Banner.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/Banner.txt) | My banner |
-|   4   | [main.exe](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.exe)     | Game executable |
-|   5   | [main.o](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/main.o)     | File you should get while following compile instructions |
-|   6   | [arial.ttf](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P01/arial.ttf)     | Game font file, obtained from zyedidia |
-|   7   | Everything else | Miscellaneous SFML libraries |
+|   1   | [Source.cpp](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P02/Source.cpp)         | Main program that compiles converter      |
+|   2   | [banner.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P02/banner.txt) | My banner |
+|   3   | [graphconfig.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P02/graphconfig.txt)  |    The default config file    |
+|   4   | [input.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P02/input.txt)     | An example input file. This one ends up too big for Graphvis online normally but it is converted correctly. |
+|   5   | [output.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P02/output.txt)     | The output file whenever test.txt is ran through the config file in this folder |
+|   6   | [test graph.png](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P02/test%20graph.png)     | A screenshot of output.txt's contents ran through Graphviz online |
+|   6   | [test.txt](https://github.com/CalebSneath/2143-OOP-sneath/blob/main/Assignments/P02/test.txt)     | An example input with the output in this folder |
 
 
 ### Instructions
@@ -41,4 +41,4 @@ This folder displays the use of classes to create a program that can convert an 
 - Edge format is a little different from nodes. First list the desired shape on a new line, then a comma, and finally the node label
 - The input file is now finished
 
-<img src="Asteroid Dodger Screenshot.png" width="800">
+<img src="test graph.png" width="800">
